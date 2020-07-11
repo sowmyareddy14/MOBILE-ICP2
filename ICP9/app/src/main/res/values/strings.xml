@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ICP9</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="thank_you">thank you</string>
+    <string name="too_much_coffee">too much coffee</string>
+    <string name="too_little_coffee">too little coffee</string>
+</resources>
